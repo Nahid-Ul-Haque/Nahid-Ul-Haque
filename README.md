@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript,Html,Css
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Blog
-- 📫 How to reach me Linkedin - @Nahid Al Haque
+- 📫 How to reach me Linkedin - Nahid Al Haue
 - 🔭 I’m currently working on Frontier.
 - 🌱 I’m currently learning more about BlockChain.
 - 🤔 I’m looking for help with new language
