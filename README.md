@@ -1,0 +1,12 @@
+- 👋 Hola, I’m Nahid-Ul-Haque
+- 👀 I’m interested in Javascript,Html,Css
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Blog
+- 📫 How to reach me Linkedin - @Nahid Al Haque
+- 🔭 I’m currently working on Frontier.
+- 🌱 I’m currently learning more about BlockChain.
+- 🤔 I’m looking for help with new language
+- 💬 Ask me about React or any tech-related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
