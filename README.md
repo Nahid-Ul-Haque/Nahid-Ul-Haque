@@ -1,3 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nahid</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+
 ### Hi there, I'm Nahid - Hola 👋 
 
 [![Website](https://img.shields.io/website?label=N-A-H-I-D.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nahid-ul-haque.github.io/Portfolio/)
