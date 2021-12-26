@@ -66,8 +66,8 @@
 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Ul-Haque28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Ul-Haque&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -75,7 +75,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Nahid-Ul-Haque/github-readme-activity-graph"><img alt="Nahid-Ul-Haque Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nahid28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nahid-Ul-Haque/github-readme-activity-graph"><img alt="Nahid-Ul-Haque Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nahid-Ul-Haque&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
