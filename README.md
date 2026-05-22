@@ -1,4 +1,4 @@
-# Hi there, I'm Nahidul HOQUE! 👋
+# Hi there, I'm NAHIDUL HOQUE! 👋
 ### 🚀 Full-Stack Developer | Building Scalable SaaS & AI-Powered Enterprise Solutions
 
 I am a passionate Full-Stack Developer who loves architecting clean backend systems and crafting interactive user interfaces. I specialize in building scalable web applications and quickly adapting to new technologies to deliver high-impact software.
@@ -53,10 +53,10 @@ I am a passionate Full-Stack Developer who loves architecting clean backend syst
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-GITHUB-USERNAME]&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
+<a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Ul-Haque&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 
