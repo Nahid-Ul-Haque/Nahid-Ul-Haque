@@ -5,7 +5,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 
 - 🌍 Based in Bangladesh (Open to Remote & Global opportunities, with a strong focus on Saudi Arabia's booming tech market)
 - 🧠 Currently architecting an **AI-driven Enterprise SaaS Platform** for real estate and construction sectors.
-- ✉️ Reach me at: nahidulhaque.dev@gmail.com ---
+- ✉️ Reach me at: nahidalhaque849@gmail.com ---
 
 ### 🛠️ Tech Stack & Expertise
 
@@ -92,4 +92,4 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 ---
 
 ### 🤝 Connect with Me:
-- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** *Coming Soon*
+- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** [*Portfolio*](https://nahid-personal-portfolio.netlify.app/)
