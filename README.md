@@ -5,53 +5,45 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 
 - 🌍 Based in Bangladesh (Open to Remote & Global opportunities, with a strong focus on Saudi Arabia's booming tech market)
 - 🧠 Currently architecting an **AI-driven Enterprise SaaS Platform** for real estate and construction sectors.
-- ✉️ Reach me at: nahidalhaque849@gmail.com ---
+- ✉️ Reach me at: nahidulhaque.dev@gmail.com
+
+---
 
 ### 🛠️ Tech Stack & Expertise
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br />JavaScript
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br />TypeScript
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br />React.js
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="40" height="40" />
-      <br />Next.js
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
-      <br />Node.js
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="40" height="40" />
-      <br />PostgreSQL
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="40" height="40" />
-      <br />MongoDB
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="icon" width="40" height="40" />
-      <br />Tailwind CSS
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="icon" width="40" height="40" />
-      <br />Git & GitHub
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100"/>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-platform-logo-shadow-tal-revivo.png" alt="icon" width="40" height="40" />
-      <br />Postman
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="100"/>
     </td>
   </tr>
 </table>
@@ -85,11 +77,12 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 ### 📊 My Live GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&theme=tokyonight&count_private=true" alt="Nahid's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&theme=tokyonight&count_private=true" alt="Nahid's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid-Ul-Haque&theme=tokyonight" alt="Nahid's GitHub Streak" height="180" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me:
-- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** [*Nahid-Ul-Hoque*](https://nahid-personal-portfolio.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque)
+- **Portfolio:** *Coming Soon*
