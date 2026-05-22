@@ -92,4 +92,4 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 ---
 
 ### 🤝 Connect with Me:
-- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** [*Portfolio*](https://nahid-personal-portfolio.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** [*Nahid-Ul-Hoque*](https://nahid-personal-portfolio.netlify.app/)
