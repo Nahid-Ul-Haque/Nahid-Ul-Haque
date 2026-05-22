@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Nahidul HOQUE! 👋
 ### 🚀 Full-Stack Developer | Building Scalable SaaS & AI-Powered Enterprise Solutions
 
 I am a passionate Full-Stack Developer who loves architecting clean backend systems and crafting interactive user interfaces. I specialize in building scalable web applications and quickly adapting to new technologies to deliver high-impact software.
