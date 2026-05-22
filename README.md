@@ -1,113 +1,95 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Hi there, I'm Nahid-Ul-Haque! 👋
+### 🚀 Full-Stack Developer | Building Enterprise SaaS & AI-Powered Digital Solutions
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nahid</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+I am a results-driven Full-Stack Developer specializing in crafting high-performance web applications, scalable architectures, and interactive user experiences. With deep expertise in modern JavaScript/TypeScript ecosystems, I love bridging the gap between robust backend systems and pixel-perfect frontends.
 
--- Hola 👋 --
+- 🌍 Based in Bangladesh (Open to Remote & Global opportunities, with a strong focus on Saudi Arabia's booming tech market)
+- 🧠 Currently architecting an **AI-driven Enterprise SaaS Platform** for real estate and construction sectors.
+- ✉️ Reach me at: nahidulhaque.dev@gmail.com ---
 
-[![Website](https://img.shields.io/website?label=N-A-H-I-D.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nahid-ul-haque.github.io/Portfolio/)
+### 🛠️ Tech Stack & Expertise
 
-- 👋 Hola, I’m Nahid-Ul-Haque
-- 👀 I’m interested in Javascript,Html,Css
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Blog
-- 📫 How to reach me [Linkedin - @Nahidalhaque](https://www.linkedin.com/in/nahid-al-haque-a5229520b/) [Portfolio](https://nahid-personal-portfolio.netlify.app/)
-- 🔭 I’m currently working on Frontier.
-- 🌱 I’m currently learning more about BlockChain.
-- 🤔 I’m looking for help with new language
-- 💬 Ask me about React or any tech-related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br />React.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="40" height="40" />
+      <br />Next.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+      <br />Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="40" height="40" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="40" height="40" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="icon" width="40" height="40" />
+      <br />Tailwind CSS
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="icon" width="40" height="40" />
+      <br />Git & GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-platform-logo-shadow-tal-revivo.png" alt="icon" width="40" height="40" />
+      <br />Postman
+    </td>
+  </tr>
+</table>
 
-<hr>
+---
 
+### 🏗️ Featured & Recent Projects
 
+#### 🌟 1. Smart AI-Driven Real Estate & Construction SaaS Portal (In Progress)
+*A multi-tenant enterprise resource management platform designed for the construction and infrastructure industries.*
+- **Key Features:** Live project milestone tracking, multi-company isolation, granular RBAC (Role-Based Access Control), automated budget estimation, and analytical summaries.
+- **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, JWT Auth, Postman API Testing.
 
-### Connect with me:
+#### 🏥 2. CarePulse - Healthcare Management System
+*A comprehensive patient management and appointment scheduling platform.*
+- **Key Features:** Complex forms with validation, Twilio SMS integration for automated notifications, passkey-secured admin dashboard, and robust file management.
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Appwrite, Twilio, Radix UI.
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+#### 🎨 3. Imaginify - AI-Powered Image SaaS
+*An innovative platform providing advanced, cloud-based AI image manipulation services.*
+- **Key Features:** AI-driven image restoration, recoloring, generative object removal, secure Stripe payment gateway integration, and credits-based usage tracking.
+- **Tech Stack:** Next.js, TypeScript, Cloudinary AI, MongoDB, Clerk Auth, Stripe.
 
-<br />
+#### 💬 4. Threads Clone
+*A full-stack social media clone focused on responsive layouts and nested discussions.*
+- **Key Features:** Server-side multi-level nested replies, community creation/management, webhooks, and unified user profiles.
+- **Tech Stack:** Next.js, React, MongoDB, Clerk, Tailwind CSS.
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+### 📊 My Live GitHub Insights
 
-<br />
-<br />
-
-<p align="center">
-    <a href="https://github.com/Nahid-Ul-Haque/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nahid-Ul-Haque streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid-ul-Haque&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&theme=tokyonight&count_private=true" alt="Nahid's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid-Ul-Haque&theme=tokyonight" alt="Nahid's GitHub Streak" height="180" />
 </p>
----
-<h3> 📊 My Github Stats </h3>
-<hr>
-
-  <br/>
-    <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Nahid-Ul-Haque/github-readme-stats"><img alt="Nahid-Ul-Haque Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid-Ul-Haque&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Nahid-Ul-Haque/github-readme-activity-graph"><img alt="Nahid-Ul-Haque Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nahid-Ul-Haque&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<h1>Coming Soon.....</h1>
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...]
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" />
-
-</details>
-
-[website]: https://nahid-ul-haque.github.io/Portfolio/
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/nahid_ul_haque/
-[linkedin]: https://www.linkedin.com/in/nahid-al-haque-a5229520b/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+### 🤝 Connect with Me:
+- **LinkedIn:** [linkedin.com/in/nahid-ul-haque](https://linkedin.com/in/nahid-ul-haque) - **Portfolio:** *Coming Soon*
