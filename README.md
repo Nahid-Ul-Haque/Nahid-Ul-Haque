@@ -87,7 +87,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
 ### 📊 My Live GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahid-Ul-Haque&show_icons=true&theme=tokyonight&count_private=true" alt="Nahid's GitHub Stats" height="180" />
+  <img src="https://github.com/user-attachments/assets/9d983782-ed5c-4622-8c58-692e26e6ed37" alt="Nahid's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahid-Ul-Haque&theme=tokyonight" alt="Nahid's GitHub Streak" height="180" />
 </p>
 
