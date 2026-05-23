@@ -36,8 +36,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
   </tr>
   <tr>
     <td align="center" width="110">
-      <img width="1500" height="1500" alt="Postgresql" src="https://github.com/user-attachments/assets/d6cc8b54-9763-48ec-8ac6-ccea640d3df6" />
-" alt="PostgreSQL Animated" width="64" height="64" style="margin-right: 15;" />
+      <img src="https://github.com/user-attachments/assets/d6cc8b54-9763-48ec-8ac6-ccea640d3df6" alt="icon" width="40" height="40" />
       <br />PostgreSQL
     </td>
     <td align="center" width="110">
