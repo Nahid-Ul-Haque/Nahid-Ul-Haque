@@ -36,7 +36,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="https://github.com/user-attachments/assets/d6cc8b54-9763-48ec-8ac6-ccea640d3df6" alt="icon" width="40" height="40" />
+      <img src="https://github.com/user-attachments/assets/599b6616-35cc-4f83-a206-48c2522790a1" alt="icon" width="40" height="40" />
       <br />PostgreSQL
     </td>
     <td align="center" width="110">
