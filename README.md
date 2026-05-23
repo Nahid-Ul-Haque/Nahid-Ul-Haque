@@ -52,7 +52,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
       <br />Git & GitHub
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-platform-logo-shadow-tal-revivo.png" alt="icon" width="40" height="40" />
+      <img src="https://github.com/user-attachments/assets/26266db1-990f-4256-bf71-d944927c5129" alt="icon" width="40" height="40" />
       <br />Postman
     </td>
   </tr>
