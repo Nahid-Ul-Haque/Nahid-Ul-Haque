@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+
 # Hi there, I'm Nahid-Ul-Haque! 👋
 ### 🚀 Full-Stack Developer | Building Enterprise SaaS & AI-Powered Digital Solutions
 
@@ -40,7 +41,7 @@ I am a results-driven Full-Stack Developer specializing in crafting high-perform
       <br />PostgreSQL
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="40" height="40" />
+      <img src="https://github.com/user-attachments/assets/5db32679-6040-46e4-8202-1f1adbcb49cf" alt="icon" width="40" height="40" />
       <br />MongoDB
     </td>
     <td align="center" width="110">
